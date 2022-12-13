@@ -14,7 +14,7 @@ const methods = {
       ghostMode: false,
       notify: false,
 
-      // proxyを利用するcase
+      // proxyを利用するケース
       // files: [`${config.dist.dir}**/*.php`],
       // startPath: config.site.path,
       // open: false,
